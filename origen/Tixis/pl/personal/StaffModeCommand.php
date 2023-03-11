@@ -1,12 +1,12 @@
 <?php
 
-namespace staffmode\xchillz\staff;
+namespace Tixis\pl\staff;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\Player;
-use staffmode\xchillz\Loader;
-use staffmode\xchillz\Utilities;
+use tixis\pl\Loader;
+use tixis\pl\Utilities;
 
 class StaffModeCommand extends Command
 {
