@@ -1,6 +1,6 @@
 <?php
 
-namespace staffmode\xchillz;
+namespace tixis\pl;
 
 use pocketmine\event\Listener;
 use pocketmine\item\ItemIds;
