@@ -1,0 +1,6 @@
+name: StaffMode
+version: 0.1
+author: Tixis (#4066)
+main: tixis\pl\Loader
+api:
+- 2.0.0
